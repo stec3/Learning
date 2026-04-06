@@ -27,7 +27,6 @@ public class e24_numeroPariDispariMultiplo5 {
                 System.out.println("Il numero non è multiplo di 5.");
             }
         }
-
         // chiudo lo scanner
         scan.close();
     }
