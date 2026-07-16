@@ -1,4 +1,4 @@
-package e47_studente;
+package e48_studente;
 
 public class studente {
 

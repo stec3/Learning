@@ -1,6 +1,6 @@
-package e47_studente;
+package e48_studente;
 
-public class e47_studente {
+public class e48_studente {
     public static void main(String[] args) {
 
         double[] voti1 = {23, 25,22, 27, 29};

@@ -1,4 +1,4 @@
-package e46_auto;
+package e47_auto;
 
 public class Auto {
 

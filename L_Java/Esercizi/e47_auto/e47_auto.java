@@ -1,6 +1,6 @@
-package e46_auto;
+package e47_auto;
 
-public class e46_auto {
+public class e47_auto {
     public static void main(String[] args) {
     
     Auto a1 = new Auto("Fiat", "Panda", 2018);
